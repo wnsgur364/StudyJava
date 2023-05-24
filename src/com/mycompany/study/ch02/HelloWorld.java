@@ -11,7 +11,7 @@ public class HelloWorld {
 		System.out.println("장기동");
 		System.out.println("010-4157-1242");
 		System.out.println("아아아아아아아아아");
-		System.out.println("고추잠자리");
+		System.out.println("Ctrl + F11");
 		
 	}
 
