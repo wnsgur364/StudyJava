@@ -1,6 +1,6 @@
 package com.mycompany.study.ch02;
 
-public class Exboolean {
+public class ExBoolean {
 
 	public static void main(String[] args) {
 		
