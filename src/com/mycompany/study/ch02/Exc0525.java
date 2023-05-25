@@ -15,6 +15,12 @@ public class Exc0525 {
 			System.out.println("거짓입니다.");
 		}
 		
+		if (defaultN) {
+			System.out.println("참입니다.");
+		} else {
+			System.out.println("거짓입니다.");
+		}
+		
 		byte byteVar = -127;
 		
 		System.out.println("byteVar: " + byteVar);
