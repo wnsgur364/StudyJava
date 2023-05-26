@@ -1,29 +1,27 @@
 package com.mycompany.study.ch02;
 
-import java.util.Arrays;
-import java.util.Random;
-
 public class Lotto {
-	
-	public static void main(String[] args) {
 
-        // Create an array to store the Lotto numbers
-        int[] lottoNumbers = new int[6];
+    public static void main(String[] args) {
 
-        // Create a random number generator
-        Random random = new Random();
+        int[] lotto = new int[6];
 
-        // Generate 6 random numbers between 1 and 45
-        for (int i = 0; i < lottoNumbers.length; i++) {
-            lottoNumbers[i] = random.nextInt(45) + 1;
+        for (int i = 0; i < lotto.length; i++) {
+            lotto[i] = (int) (Math.random() * 45) + 1;
         }
 
-        // Sort the numbers in ascending order
-        Arrays.sort(lottoNumbers);
+        for (int i = 0; i < lotto.length - 1; i++) {
+            for (int j = i + 1; j < lotto.length; j++) {
+                if (lotto[i] > lotto[j]) {
+                    int temp = lotto[i];
+                    lotto[i] = lotto[j];
+                    lotto[j] = temp;
+                }
+            }
+        }
 
-        // Print the numbers
         System.out.println("The Lotto numbers are:");
-        for (int number : lottoNumbers) {
+        for (int number : lotto) {
             System.out.print(number + " ");
         }
     }

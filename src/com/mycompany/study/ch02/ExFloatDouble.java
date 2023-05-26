@@ -14,6 +14,10 @@ public class ExFloatDouble {
 		double var6 = 1234567;		// ~7자리
 		double var7 = 12345678;		// 8자리~ 1.2345678E7 > E = 10, 7 = 10의 -7제곱
 		
+		float var8 = 3;
+		float var9 = 3f;
+		float var10 = 3F;	
+		
 		System.out.println("var1: " + var1);
 		System.out.println("var2: " + var2);
 		
@@ -23,6 +27,10 @@ public class ExFloatDouble {
 		
 		System.out.println("var6: " + var6);
 		System.out.println("var7: " + var7);
+		
+		System.out.println("var8: " + var8);
+		System.out.println("var9: " + var9);
+		System.out.println("var10: " + var10);
 		
 	}
 

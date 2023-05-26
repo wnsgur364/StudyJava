@@ -66,12 +66,12 @@ public class Exc0525 {
 		double dv = fv;
 		
 		System.out.println("dv: " + dv);
+		
+//		예습
 
 		String text = String.valueOf(100);
 		
 		System.out.println("text: " + text);
-		
-//		예습
 		
 		int number = Integer.parseInt("100");
 		
