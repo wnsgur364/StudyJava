@@ -20,7 +20,7 @@ public class Lotto {
             }
         }
 
-        System.out.println("The Lotto numbers are:");
+        System.out.print("로또번호: ");
         for (int number : lotto) {
             System.out.print(number + " ");
         }
