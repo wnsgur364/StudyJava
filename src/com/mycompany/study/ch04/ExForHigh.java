@@ -27,6 +27,13 @@ public class ExForHigh {
 //		*       *		
 //		*********
 //		출력하는 프로그램을 만드시오.
+		
+		System.out.println("**********");
+		System.out.println("*        *");
+		System.out.println("*        *");
+		System.out.println("*        *");
+		System.out.println("**********");
+		System.out.println("==========");
 
 		for (int i=0; i<5; i++) {
 			for (int j=0; j<10; j++) {
