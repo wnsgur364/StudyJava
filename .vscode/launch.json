@@ -1,0 +1,302 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "console": "internalConsole",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ExBoolean",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch02.ExBoolean",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExByte",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch02.ExByte",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExCasting",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch02.ExCasting",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExChar",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch02.ExChar",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExConstants",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch02.ExConstants",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExFloatDouble",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch02.ExFloatDouble",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExInt",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch02.ExInt",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExLong",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch02.ExLong",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExPromotion",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch02.ExPromotion",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "Exc0524",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch02.Exc0524",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "Exc0525",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch02.Exc0525",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "HelloJava",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch02.HelloJava",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch02.HelloWorld",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "TrBoolean",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch02.TrBoolean",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "TrCasting",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch02.TrCasting",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExArithmeticOperator",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch03.ExArithmeticOperator",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExAssignmentOperator",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch03.ExAssignmentOperator",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExCompareOperator",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch03.ExCompareOperator",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExConditionalOperation",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch03.ExConditionalOperation",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExDenyLogicOperator",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch03.ExDenyLogicOperator",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExIncreaseDecreaseOperator",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch03.ExIncreaseDecreaseOperator",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExLogicalOperator",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch03.ExLogicalOperator",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExSignOperator",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch03.ExSignOperator",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExStringConcat",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch03.ExStringConcat",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExStringEquals",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch03.ExStringEquals",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExEnumWeek",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch04.ExEnumWeek",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExFor",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch04.ExFor",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExForHigh",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch04.ExForHigh",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExForOneToTen",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch04.ExForOneToTen",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExIf",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch04.ExIf",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExIf2",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch04.ExIf2",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExIf4",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch04.ExIf4",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExIf5",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch04.ExIf5",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExLotto",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch04.ExLotto",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExRandom",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch04.ExRandom",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExSwitch1",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch04.ExSwitch1",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExWhile",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch04.ExWhile",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "Exif3",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch04.Exif3",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExArrayCreateByNew",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch05.ExArrayCreateByNew",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExArrayCreateByValueList",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch05.ExArrayCreateByValueList",
+            "projectName": "StudyJava_b494ae2b"
+        },
+        {
+            "type": "java",
+            "name": "ExArrayInArray",
+            "request": "launch",
+            "mainClass": "com.mycompany.study.ch05.ExArrayInArray",
+            "projectName": "StudyJava_b494ae2b"
+        }
+    ]
+}

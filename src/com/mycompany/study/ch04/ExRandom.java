@@ -4,13 +4,11 @@ public class ExRandom {
 
     public static void main(String[] args) {
         
-        System.out.println(Math.random());
+        int min = 1;
+        int max = 45;
+        int random = (int) ((Math.random() * (max - min)) + min);
+        System.out.println("random: " + random);
 
-
-
-
-
-        
     }
 
 }
