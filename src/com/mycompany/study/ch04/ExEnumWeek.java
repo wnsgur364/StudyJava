@@ -15,9 +15,7 @@ public class ExEnumWeek {
 //		week= Week.MONDAY;
 		
 		System.out.println(abc);
-
-		rrr
-		
+	
 	}
 
 }
