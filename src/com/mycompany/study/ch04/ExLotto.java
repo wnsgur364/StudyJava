@@ -33,8 +33,6 @@ public class ExLotto {
                             break;
                         }
                     }
-
-                    Array.sort(lotto);
                     
                     // 3연속 숫자 확인 
                     if (j >= 2) {
