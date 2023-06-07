@@ -3,11 +3,11 @@ package com.mycompany.study.ch04;
 public class ExLotto {
 
     public static void main(String[] args) {
-        
-        // LottoNumbers 클래스에서 oldNumber 배열 불러오기
+
+        // LottoOldNumbers.java 파일에서 oldNumber 배열 불러오기
         String[] oldNumber = LottoOldNumbers.oldNumber;
 
-        // 5번의 로또 번호 생성 반복
+        // 다섯번의 로또 번호 생성 반복
         for (int i=0; i<5; i++) {
             String[] lotto = new String[6]; // 로또 번호 배열 생성
             // 로또 번호 생성

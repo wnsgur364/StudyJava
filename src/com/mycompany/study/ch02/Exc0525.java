@@ -1,7 +1,5 @@
 package com.mycompany.study.ch02;
 
-import javax.management.StringValueExp;
-
 public class Exc0525 {
 
 	public static void main(String[] args) {
