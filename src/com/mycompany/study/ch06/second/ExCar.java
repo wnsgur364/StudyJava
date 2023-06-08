@@ -27,8 +27,4 @@ public class ExCar {
         System.out.println(car3.company);
 
     }
-    
-
-    
-
 }
