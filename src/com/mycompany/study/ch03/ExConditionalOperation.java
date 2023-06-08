@@ -3,7 +3,6 @@ package com.mycompany.study.ch03;
 public class ExConditionalOperation {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 //		ch03.10
 //		삼항 연산자 (조건식) ? A : B
 		

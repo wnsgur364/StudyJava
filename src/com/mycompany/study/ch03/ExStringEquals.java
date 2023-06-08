@@ -3,7 +3,6 @@ package com.mycompany.study.ch03;
 public class ExStringEquals {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 //		ch03.07
 //		문자열 관련
 		

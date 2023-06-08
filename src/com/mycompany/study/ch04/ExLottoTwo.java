@@ -5,7 +5,6 @@ import java.util.Arrays;
 public class ExLottoTwo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 				
 		// 로또번호 생성기
 		// 현재까지 나온 번호와 중복이 되지 않아야 함

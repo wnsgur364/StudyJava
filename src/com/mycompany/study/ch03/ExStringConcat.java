@@ -3,7 +3,6 @@ package com.mycompany.study.ch03;
 public class ExStringConcat {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 //		ch03.06
 //		문자열 연산자
 		

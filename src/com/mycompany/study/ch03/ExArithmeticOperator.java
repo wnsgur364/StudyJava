@@ -3,7 +3,6 @@ package com.mycompany.study.ch03;
 public class ExArithmeticOperator {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 //		ch03.01
 //		산술 연산자
 		

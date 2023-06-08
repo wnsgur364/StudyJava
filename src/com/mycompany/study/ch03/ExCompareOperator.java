@@ -3,7 +3,6 @@ package com.mycompany.study.ch03;
 public class ExCompareOperator {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 //		ch03.02		
 //		비교 연산자
 		

@@ -3,7 +3,6 @@ package com.mycompany.study.ch02;
 public class HelloJava {
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 //		  선언	=	초기화		
 		boolean a = true;
 		boolean b = false;

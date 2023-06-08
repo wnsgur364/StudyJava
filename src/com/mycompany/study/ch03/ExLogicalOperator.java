@@ -3,7 +3,6 @@ package com.mycompany.study.ch03;
 public class ExLogicalOperator {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 //		ch03.08
 //		논리 연산자
 //		&& = & : and : 논리곱 : 연산 참, 참 = 참 / 나머지 폴스
