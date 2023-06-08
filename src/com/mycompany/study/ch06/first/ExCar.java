@@ -6,7 +6,7 @@ public class ExCar {
         int a = 1;
         System.out.println("a: " + a);
         
-        Car car = new Car();    // default 생성자
+        Car car = new Car();    // 기본생성자
 
         System.out.println("차종: " + car.name);
         System.out.println("색상: " + car.color);
