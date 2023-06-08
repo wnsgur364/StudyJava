@@ -10,7 +10,7 @@ public class ExArrayCreateByNew {
 		arr1[1] = 66;
 		arr1[2] = 90;
 		
-		String[] arr2 = new String[10];
+		// String[] arr2 = new String[10];
 	
 		for (int i=0; i<arr1.length; i++) {
 			System.out.println("index: " + i + ", value: " + arr1[i]);

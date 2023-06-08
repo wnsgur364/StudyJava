@@ -6,7 +6,7 @@ public class ExBoolean {
 		
 		// 선언
 		// 변수명은 defaultNy 로 불리언 변수 선언
-		boolean defaultNy;
+		// boolean defaultNy;
 		
 		
 		// 초기화
@@ -14,7 +14,7 @@ public class ExBoolean {
 		boolean default1Ny = true;
 		
 		// 변수명은 default2Ny로 불리언 변수 선언 초기값은 false
-		boolean default2Ny = false;
+		// boolean default2Ny = false;
 		
 		// default1Ny값이 참이면 "기본값입니다." 아니면 "여분값입니다." 출력 하시요
 		

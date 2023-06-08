@@ -5,7 +5,7 @@ public class TrBoolean {
 	public static void main(String[] args) {
 		
 		boolean defaultY = true;
-		boolean defaultN = false;
+		// boolean defaultN = false;
 		
 		if (defaultY) {
 			System.out.println ("기본값입니다.");

@@ -1,7 +1,5 @@
 package com.mycompany.study.ch05;
 
-import javax.swing.plaf.synth.SynthOptionPaneUI;
-
 public class ExArrayInArray {
 
 	public static void main(String[] args) {
