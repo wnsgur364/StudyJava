@@ -8,15 +8,22 @@ public class TrExGugu {
 
 		TrGugu trGugu = new TrGugu();
 		
-		try (Scanner scanner = new Scanner(System.in)) {
-			int number = scanner.nextInt();
+		Scanner scanner = new Scanner(System.in); 
+		
+		int number = scanner.nextInt();
+		
+		while (trGugu.t) {
+			trGugu.gugudan(number);
+			number = scanner.nextInt();
 			
-			while (number >= 1 && number <= 9) {
+			if (number != 0) {
 				trGugu.gugudan(number);
-				number = scanner.nextInt();
+			} else {
+				System.out.println("프로그램 종료.");
+				trGugu.t = false;
 			}
 		}
-	    System.out.println("잘못된 값을 입력했습니다.");
+		
 	}
-
+	
 }
