@@ -11,7 +11,7 @@ public class ComputerExample {
 		double pai1 = calculator.param(calculator.radius);
 		double pai2 = computer.param(calculator.radius);
 		
-		System.out.println("원의 반지름: " + (int) calculator.radius);
+		System.out.println("원의 반지름: " +  calculator.radius);
 		System.out.println();
 		System.out.println("Calculator 객체의 원면적 구하는 프로그램 실행");
 		System.out.println(pai1) ;
