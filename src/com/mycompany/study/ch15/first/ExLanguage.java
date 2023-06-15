@@ -1,13 +1,13 @@
 package com.mycompany.study.ch15.first;
 
-import java.util.ArrayList;
 import java.util.List;
+import java.util.Vector;
 
 public class ExLanguage {
 
 	public static void main(String[] args) {
 
-		ArrayList<Language> arrayList = new ArrayList<Language>();
+		List<Language> arrayList = new Vector<Language>();
 		
 		for(Language language: arrayList) {
 			System.out.println("Language name: " + language.name);
@@ -19,6 +19,8 @@ public class ExLanguage {
 		Language language = new Language("JAVA", 11);
 		
 		arrayList.add(language);
+		arrayList.add(new Language("Python", 8));
+		arrayList.add(new Language("C#", 6));
 		
 		for(Language lang: arrayList) {
 			System.out.println("Language name: " + lang.name);
