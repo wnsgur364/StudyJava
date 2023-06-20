@@ -8,8 +8,8 @@ public class ExHashMap {
 	public static void main(String[] args) {
 		
 		Map<String, Integer> map = new HashMap<String, Integer>();		// standard
-		Map<String, String> map2 = new HashMap<>();
-		HashMap<String, Integer> hashMap = new HashMap<String, Integer> ();		// not bad
+//		Map<String, String> map2 = new HashMap<>();
+//		HashMap<String, Integer> hashMap = new HashMap<String, Integer> ();		// not bad
 		
 		map.put("장원영", 100);
 		map.put("전지현", 99);
